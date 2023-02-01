@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.umumiy{
+    margin: 0   auto;
+    width: 1350px;
+    height: 650px;
+    background-image: url(https://www.bmw.uz/content/dam/bmw/common/home/teaser/bmw-3-series-sedan-m-automobilesl-lci-hometeaser-desktop.jpg.asset.1652828691650.jpg);
+    mask-repeat: no-repeat;
+    background-size: 1350px 650px;
+}
+.header{
+    width: 1005px;
+    height: 74px;
+    margin: 0 auto;
+}
+.header_left{
+    width: 930px;
+    height: 73px;
+    border-bottom:1px  solid #eef2f7;
+    float: left;
+}
+.menyu_left{
+    width: 730px;
+    height: 70px;
+    float: left;
+}
+.menyu_left ul li{
+    width: 136px;
+    height: 70px;
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+.menyu_left ul li a{
+    height: 50px;
+    font-family: verdana;
+    font-size: 17px;
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding-top: 20px;
+}
+.menyu_left ul li a:hover{
+    border-bottom: 3px solid blue;
+}
+.menyu_right{
+    width: 200px;
+    height: 70px;
+    float: left;
+}
+.menyu_right ul li{
+    list-style: none;
+    width: 45px;
+    height: 70px;
+    float: left;
+    padding-left: 5px;
+}
+.menyu_right ul li a{
+    padding-top: 20px;
+    display: block;
+    height: 60px;
+}
+.menyu_right ul li img{
+    width: 35px;
+    height: 30px;
+}
+.menyu_right ul li:hover{
+    border-bottom: 3px solid blue;
+}
+.haeder_right{
+    width: 70px;
+    height: 74px;
+    background-color: blue;
+    float: left;
+}
+.haeder_right img{
+    width: 74px;
+    height: 73px;
+
+}
+.clear{
+    clear: both;
+}
+.text{
+    width: 930px;
+    height: 30px;
+    margin: 0 auto;
+}
+.text p{
+    float: right;
+    margin-right: 35px;
+    margin-top: 5px;
+    font-family:Arial Unicode MS;
+    font-size: 16px;
+    color: white;
+}
+.text2{
+    width: 500px;
+    height: 70px;
+    margin-left: 50px;
+}
+.text2 p{
+    font-size: 50px;
+    color: white;
+}
+.text3{
+    width: 500px;
+    height: 50px;
+    margin-left: 50px;
+}
+.text3 p{
+    font-size: 30px;
+    color: white;
+}
+.silka{
+    width: 350px;
+    height: 40px;
+    border: 0.5px solid #4d4d4d;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 50px;
+    background-color: #4d4d4d;
+}
+.silka a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.silka :hover{
+    background-color: #181818;
+    border-color:  #181818;
+}
